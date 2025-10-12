@@ -1,14 +1,12 @@
 [project]
-name = "farming-dao"
+name = "bettercoin-dex"
 description = ""
 authors = []
 telemetry = true
 cache_dir = "./.cache"
 
-
-[contracts.farming-dao]
-path = "contracts/farming-dao.clar"
-
+# [contracts.counter]
+# path = "contracts/counter.clar"
 
 [repl.analysis]
 passes = ["check_checker"]

@@ -1,5 +1,6 @@
+
 {
-  "name": "farming-dao-tests",
+  "name": "bettercoin-dex-tests",
   "version": "1.0.0",
   "description": "Run unit tests on this project.",
   "type": "module",
@@ -13,9 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@hirosystems/clarinet-sdk": "^3.0.2",
-    "@stacks/connect": "^8.1.9",
-    "@stacks/network": "^7.0.2",
-    "@stacks/transactions": "^7.1.0",
+    "@stacks/transactions": "^7.0.6",
     "@types/node": "^22.15.18",
     "chokidar-cli": "^3.0.0",
     "vitest": "^3.1.3",
